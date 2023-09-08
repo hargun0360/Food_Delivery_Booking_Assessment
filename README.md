@@ -1,7 +1,5 @@
 # Food Delivery Booking System
 
-This README explains the system developed to handle bookings and assign delivery executives for a food delivery company.
-
 ## Overview
 
 The system is built with Node.js and handles various tasks associated with the booking and management of orders for a food delivery service. The primary tasks include:

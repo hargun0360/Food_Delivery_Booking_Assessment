@@ -32,6 +32,12 @@ The system is built with Node.js and handles various tasks associated with the b
   
 4. **Display Executive Activities:** At any time, you can view the details of each executive's activities, including the commission earned and the allowance earned.
 
+## Sample Output
+
+![Output 1](./images/Output_1.png)
+
+![Output 2](./images/Output_2.png)
+
 ## Edge Cases Handled
 
 - **Time Overflow:** If the order time provided is less than the latest time, an extra day is added to manage 24-hour time format overflow.
